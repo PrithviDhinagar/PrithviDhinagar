@@ -23,8 +23,6 @@
 [<img align="left" alt="Unity" width="26px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Adobe Photoshop" width="26px" src="https://www.flaticon.com/premium-icon/adobe-photoshop_5210800" />]
-[<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://www.flaticon.com/free-icon/premiere-pro_5968525?term=premiere%20pro&page=1&position=3&page=1&position=3&related_id=5968525&origin=search" />]
 
 <br />
 <br />
