@@ -7,6 +7,8 @@
 - 🥅 2022 Goals - Contribute and work more towards game development projects.
 - 🖊️ Hobbies - Love to create video content and test games.
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Portfolio | " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
@@ -14,6 +16,8 @@
 [<img align="left" alt="Prithvi Dhinagar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
