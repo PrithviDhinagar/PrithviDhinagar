@@ -1,6 +1,6 @@
 ### Hi there, I'm Prithvi Dhinagar - [portfolio]
 
-## I'm a Computer Science Engineer, Developer and a Game Enthusiast. 
+## I'm a Computer Science Engineer, Developer and a Game Enthusiast. Working at MMR Boutique
 
 - 🎮 Currently learning everything related to Game design and development. 
 - 💡 Exploring game ideas and trying to implement it. 
