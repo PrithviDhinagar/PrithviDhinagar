@@ -14,6 +14,7 @@
 [<img align="left" alt="Portfolio | " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="Revolz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Prithvi Dhinagar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Prithvi Dhinagar | Itch" width="22px" src="https://iconape.com/wp-content/files/aq/11577/png/itch-io.png" />][Itch]
 
 <br />
 
@@ -35,3 +36,4 @@
 [portfolio]: https://prithvidhinagar.github.io/
 [youtube]: https://www.youtube.com/c/Revolzmostly
 [linkedin]: https://www.linkedin.com/in/prithvi-dhinagar-600092170/
+[Itch]: https://prithvidhinagar.itch.io/
