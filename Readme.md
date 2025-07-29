@@ -1,11 +1,11 @@
 ### Hi there, I'm Prithvi Dhinagar - [portfolio]
 
-## I'm a Computer Science Engineer, Developer and a Game Enthusiast. Working at MMR Boutique
+## I'm a Computer Science Engineer and Advanced Game Development Graduate from KPU, Vancouver, Canada
 
 - 🎮 Currently learning everything related to Game design and development. 
 - 💡 Exploring game ideas and trying to implement it. 
-- 🥅 2022 Goals - Contribute and work more towards game development projects.
-- 🖊️ Hobbies - Love to create video content and test games.
+- 🥅 2025 Goals - Contribute and work more towards game development projects.
+- 🖊️ Hobbies - Love to create video content and develop games.
 
 ---
 
@@ -33,7 +33,6 @@
 
 ---
 
-[portfolio]: https://prithvidhinagar.github.io/
-[youtube]: https://www.youtube.com/c/Revolzmostly
-[linkedin]: https://www.linkedin.com/in/prithvi-dhinagar-600092170/
+[portfolio]: https://prithvidhinagar.wixsite.com/gamedesignportfolio
+[linkedin]: www.linkedin.com/in/prithvi-dhinagar
 [Itch]: https://prithvidhinagar.itch.io/
